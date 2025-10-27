@@ -36,4 +36,4 @@ pip install -r requirements.txt
 # 复制环境变量示例文件
 cp .env.example .env
 ```
-# 编辑.env文件，填入你的DeepSeek API密钥
+## 编辑.env文件，填入你的DeepSeek API密钥
