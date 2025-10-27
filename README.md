@@ -24,7 +24,6 @@ cd family_debate
 python -m venv .venv
 # 激活虚拟环境
 .venv\Scripts\activate
-macOS/Linux 系统：
 ```
 
 3. 安装依赖包
